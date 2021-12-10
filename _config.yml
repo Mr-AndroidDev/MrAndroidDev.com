@@ -1,13 +1,13 @@
 # Site
-name: "Stephen Vinouze"
-title: "Stephen Vinouze"
-description: "Stephen Vinouze."
+name: "Mr AndroidDev"
+title: "Mr AndroidDev"
+description: "Mr AndroidDev."
 logo: 'assets/images/favicon.png'
-email: s.vinouze@gmail.com
+email: contact@mrandroiddev.com
 medium: https://medium.com/@s.vinouze
-twitter: https://twitter.com/stephenvinouze
+twitter: https://twitter.com/mrandroiddev
 linkedin: https://www.linkedin.com/in/stephenvinouze/
-github: https://github.com/StephenVinouze
+github: https://github.com/Mr-AndroidDev
 favicon: 'assets/images/favicon.png'
 baseurl:
 google_analytics: 'UA-166933112-1'
@@ -19,12 +19,12 @@ permalink: /:title/
 # Authors
 authors:
   stephen:
-    name: Stephen Vinouze
-    display_name: Stephen Vinouze
+    name: Manohar Reddy
+    display_name: Manohar Reddy
     avatar: 'assets/images/avatar.png'
-    email: s.vinouze@gmail.com
-    web: https://medium.com/@s.vinouze
-    twitter: https://twitter.com/stephenvinouze
+    email: manohar@mrandroiddev.com
+    web: https://manoharreddy.ml/
+    twitter: https://twitter.com/manohar_reddy_a
 
 # Plugins
 plugins:
