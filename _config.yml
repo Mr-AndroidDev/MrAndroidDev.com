@@ -4,15 +4,15 @@ title: "Mr AndroidDev"
 description: "Mr AndroidDev."
 logo: 'assets/images/favicon.png'
 email: contact@mrandroiddev.com
-medium: https://medium.com/@s.vinouze
+medium: https://medium.com/@anugumanoharreddy
 twitter: https://twitter.com/mrandroiddev
-linkedin: https://www.linkedin.com/in/stephenvinouze/
+linkedin: https://www.linkedin.com/in/manoharreddya/
 github: https://github.com/Mr-AndroidDev
 favicon: 'assets/images/favicon.png'
 baseurl:
-google_analytics: 'UA-166933112-1'
-disqus: 'stephenvinouze'
-mailchimp-list: 'https://stephenvinouze.us18.list-manage.com/subscribe?u=f1f3eb2d7ae0213227f09dd2c&id=1f16cf654c'
+google_analytics: 'UA-1'
+disqus: 'mrandroiddev'
+mailchimp-list: 'http://eepurl.com/h4OAL9'
 include: ["_pages"]
 permalink: /:title/
 
@@ -22,8 +22,8 @@ authors:
     name: Manohar Reddy
     display_name: Manohar Reddy
     avatar: 'assets/images/avatar.png'
-    email: manohar@mrandroiddev.com
-    web: https://manoharreddy.ml/
+    email: hi@manoharreddy.in
+    web: https://manoharreddy.in/
     twitter: https://twitter.com/manohar_reddy_a
 
 # Plugins
