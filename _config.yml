@@ -12,13 +12,13 @@ favicon: 'assets/images/favicon.png'
 baseurl:
 google_analytics: 'UA-1'
 disqus: 'mrandroiddev'
-mailchimp-list: 'http://eepurl.com/h4OAL9'
+mailchimp-list: 'https://mrandroiddev.us11.list-manage.com/subscribe?u=106db50c10a23e82e76627598&id=5e29d42136'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  stephen:
+  manohar:
     name: Manohar Reddy
     display_name: Manohar Reddy
     avatar: 'assets/images/avatar.png'

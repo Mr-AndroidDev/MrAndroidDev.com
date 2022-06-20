@@ -14,7 +14,9 @@ comments: true
 
 <p>I've been developing mobile applications for more than six years</p>
 
-<p>You can visit my [website](https://manoharreddy.in) for more details</p>
+
+<p>You can visit my
+<a href="https://manoharreddy.in">website</a> for more details</p>
 <br />
 
 {% include contact.html %}
