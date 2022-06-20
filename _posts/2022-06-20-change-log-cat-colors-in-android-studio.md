@@ -11,19 +11,6 @@ hidden: false
 
 ---
 
----
-
-layout: post
-author: manohar
-title:  Stop Using Post/PostDelayed in Your Android Views
-description: Prevent avoidable crashes
-categories: [ Android, Handler, Lifecycle ]
-image: https://i.imgur.com/kYV3SiA.jpg
-featured: true
-hidden: false
-
----
-
 
 You can make your Logcat look way more cooler and easier to read by changing the colors .
 
